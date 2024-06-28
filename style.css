@@ -13,25 +13,20 @@ ul li {
 h1 {
   text-align: center;
   font-size: 2em;
-  color: #00f;
+  color: rgba(29, 27, 27, 0.533);
   text-align: center;
   margin: 20px;
+
   padding: 10px;
-  background: linear-gradient(45deg, #ff0000, #00ff00, #0000ff);
-  background-size: 600% 600%;
+  background: linear-gradient(45deg, #00d9ff, #00ff00, #5b5bf8);
+  background-size: 100% 100%;
   -webkit-animation: GradientShift 10s ease infinite;
   -moz-animation: GradientShift 10s ease infinite;
   animation: GradientShift 10s ease infinite;
-  border: 5px solid #ff00ff;
+  border: 5px solid #ffafff;
   border-radius: 15px;
   transition: all 0.5s ease;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
-}
-.div {
-  width: 35px;
-  height: 5px;
-  background-color: black;
-  margin: 6px 0;
 }
 
 .main {
@@ -44,7 +39,7 @@ h1 {
   width: 100%;
   padding: 15px;
   border: 1px solid rgb(82, 50, 50);
-  border-radius: 5px;
+  border-radius: 50px;
   margin: px;
 }
 .im-agam {
