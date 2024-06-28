@@ -45,4 +45,9 @@ h1 {
 .im-agam {
   display: flex;
   justify-content: center;
+  border-radius: 50%;
+}
+
+img {
+  border-radius: 20%;
 }
